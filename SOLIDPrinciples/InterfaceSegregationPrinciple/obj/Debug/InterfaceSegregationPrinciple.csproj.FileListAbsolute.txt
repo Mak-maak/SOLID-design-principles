@@ -1,0 +1,7 @@
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojAssemblyReference.cache

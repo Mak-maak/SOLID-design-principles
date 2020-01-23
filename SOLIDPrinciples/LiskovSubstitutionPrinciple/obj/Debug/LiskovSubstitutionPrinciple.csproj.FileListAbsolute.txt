@@ -1,0 +1,7 @@
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

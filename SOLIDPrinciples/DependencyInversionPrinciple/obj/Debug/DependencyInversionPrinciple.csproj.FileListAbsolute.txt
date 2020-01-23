@@ -1,0 +1,10 @@
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\bin\Debug\System.ValueTuple.dll
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\bin\Debug\System.ValueTuple.xml
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CopyComplete
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

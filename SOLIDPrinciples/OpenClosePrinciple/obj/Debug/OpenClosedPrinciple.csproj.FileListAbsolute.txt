@@ -1,0 +1,7 @@
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
+C:\Users\Mak\Source\Repos\SOLIDPrinciples\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb
